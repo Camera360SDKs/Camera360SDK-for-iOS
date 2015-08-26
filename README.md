@@ -9,4 +9,4 @@ class="octicon octicon-link"></SPAN></A>SDK及文档</H2>
 <H2><A class="anchor" id="user-content-技术支持" aria-hidden="true" href="#技术支持"><SPAN 
 class="octicon octicon-link"></SPAN></A>技术支持</H2>
 <UL>
-</LI><P>更多信息请访问 <A href="http://sdk.camera360.com/">Camera360SDK.com</A>，如有任何问题请随时联系 <A href="mailto:sdk@camera360.com">sdk@camera360.com</A> 寻求技术支持。
+<P>更多信息请访问 <A href="http://sdk.camera360.com/">Camera360SDK.com</A>，如有任何问题请随时联系 <A href="mailto:sdk@camera360.com">sdk@camera360.com</A> 寻求技术支持。
